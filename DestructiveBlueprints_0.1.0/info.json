@@ -4,7 +4,7 @@
     "title": "Destructive Blueprints",
     "author": "Malte9799",
     "contact": "",
-    "homepage": "",
+    "homepage": "https://github.com/malte9799/Factorio-Mods",
     "factorio_version": "1.1",
     "dependencies": ["base >= 1.1.87", "redo >= 0.2.7"],
     "description": "This mod adds the ability to place blueprints over existing buildings. Deconstruction is ordered for buildings that are in the way.\nUsage: Press Ctrl (by default) and place a blueprint to demolish any buildings that stand in its way.\n\n[color=red]Important Note:[/color] You can now build directily from Blueprint Libary, but the grid settings wont work.\n(This is a limitation from the game. So nothing I can do)"
