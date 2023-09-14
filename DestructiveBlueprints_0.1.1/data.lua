@@ -3,7 +3,7 @@ local mod_defines = require("__DestructiveBlueprints__.mod_defines")
 local force_place = {
     type = "custom-input",
     name = mod_defines.input.force_place,
-    key_sequence = "CONTRL + mouse-button-1"
+    key_sequence = "CONTROL + mouse-button-1"
 }
 
 local rotate = {
