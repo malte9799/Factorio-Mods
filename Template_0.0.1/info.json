@@ -1,0 +1,11 @@
+{
+    "name": "Template",
+    "version": "0.0.1",
+    "title": "Template Mod",
+    "author": "Malte9799",
+    "contact": "",
+    "homepage": "https://github.com/malte9799/Factorio-Mods",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1.87"],
+    "description": "This is a template mod that does absolutly nothing."
+  }
